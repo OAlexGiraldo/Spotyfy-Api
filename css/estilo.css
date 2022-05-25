@@ -1,0 +1,6 @@
+#fondo{
+    background-image: url("../img/2fondo.jpg");
+    height: 550px;
+    background-attachment: fixed;
+    background-position: top center;
+}
